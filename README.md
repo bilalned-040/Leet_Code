@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bilalned-040/Leet_Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bilalned-040/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bilalned-040/Leet_Code/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/bilalned-040/Leet_Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bilalned-040/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/bilalned-040/Leet_Code/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/bilalned-040/Leet_Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bilalned-040/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bilalned-040/Leet_Code/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/bilalned-040/Leet_Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bilalned-040/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
